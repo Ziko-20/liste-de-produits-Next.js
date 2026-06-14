@@ -22,8 +22,8 @@ export default function ProductDetail() {
   return (
     <div className="max-w-2xl mx-auto mt-16 p-8 border rounded-2xl shadow-lg">
       
-      <Link href="/products">
-        <button className="mb-6 text-sm text-blue-600 hover:underline">
+      <Link href="/">
+        <button className="mb-6 text-sm text-black hover:underline">
           ← Retour à la liste
         </button>
       </Link>
